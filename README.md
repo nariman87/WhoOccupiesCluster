@@ -1,17 +1,16 @@
-# WhoOccupiesTheCluster
-Some short BASH scripts to monitor BATCH cluster job usage and who is occupying most threads on SGE and SLURM queuing systems
+<h1 align="center">WhoOccupiesCluster</h1>
 
-# Copyrights and licensing 
-Copyright (c) Seyed Nariman Saadatmand 2016-2017 All Rights Reserved. 
+<p align="center">
+A series of short BASH scripts to monitor BATCH cluster job usage. Find out who is occupying most threads on your SGE and SLURM queuing systems quickly and interactively.
+</p>  
 
-Licensed under GNU General Public License v3.0. 
+## Downlaod and Installation
 
-# Installation and requirements
-See installation_guides.txt in this repository.
+> Coming soon ...
 
-# Usage and example calculations
-See usage_guides.txt in this repository.
+## Usage and example calculations
 
-# Latest relevant publications, patents, or products
-None.
+> Coming soon ...
 
+## Copyrights and licensing 
+Copyright (c) Seyed Nariman Saadatmand 2016-2017 All Rights Reserved. This software is licensed under GNU General Public License v3.0. 
